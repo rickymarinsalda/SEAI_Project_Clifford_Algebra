@@ -1,5 +1,5 @@
 # SEAI_Project_Clifford_Algebra
-# Project Overview
+### Project Overview
 
 In this project, Clifford algebra has been studied from a more operational perspective applied to neural networks. In the produced report, after recalling some mathematical notions to explain the foundations of Clifford algebra, *tfga* was introduced. This is a library written by Robin Kahlow to implement Clifford algebra with TensorFlow and thereby implement various layers used in neural networks, taking the latter into account. 
 
